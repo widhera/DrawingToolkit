@@ -18,3 +18,13 @@ C:\Users\WidheraYoza\source\repos\TASK1_KPL_5115100024\DrawingToolkit\DrawingToo
 C:\Users\WidheraYoza\source\repos\TASK1_KPL_5115100024\DrawingToolkit\DrawingToolkit\bin\Debug\DrawingToolkit.exe.config
 C:\Users\WidheraYoza\source\repos\TASK1_KPL_5115100024\DrawingToolkit\DrawingToolkit\bin\Debug\DrawingToolkit.exe
 C:\Users\WidheraYoza\source\repos\TASK1_KPL_5115100024\DrawingToolkit\DrawingToolkit\bin\Debug\DrawingToolkit.pdb
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\obj\Debug\DrawingToolkit.csprojAssemblyReference.cache
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\obj\Debug\DrawingToolkit.Form1.resources
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\obj\Debug\DrawingToolkit.Properties.Resources.resources
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\obj\Debug\DrawingToolkit.csproj.GenerateResource.cache
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\obj\Debug\DrawingToolkit.csproj.CoreCompileInputs.cache
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\obj\Debug\DrawingToolkit.exe
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\obj\Debug\DrawingToolkit.pdb
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\bin\Debug\DrawingToolkit.exe.config
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\bin\Debug\DrawingToolkit.exe
+C:\BEBAS\kuliah\KPL\DrawingToolkitFix\DrawingToolkit\DrawingToolkit\bin\Debug\DrawingToolkit.pdb
